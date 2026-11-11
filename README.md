@@ -1,6 +1,6 @@
 # Aleph Costa Melo
 
-**Desenvolvedor Front-End** · Angular · React · Next.js · TypeScript
+**Desenvolvedor Front-End** · Angular · React · Next.js · TypeScript  
 Sarandi / Maringá – PR · [LinkedIn](https://www.linkedin.com/in/aleph-costa-melo-2255b720a/) · alephcostamelo@gmail.com
 
 Há 4 anos desenvolvo sistemas web e mobile na [SG Sistemas](https://sgsistemas.com.br): front-ends em Angular e React/Next.js, app híbrido em Ionic e, quando o projeto pede, back-end em Node.js. Fora do trabalho, mantenho bibliotecas TypeScript open source.
